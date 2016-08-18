@@ -15,11 +15,14 @@
   },
   "author": "Luis Carlos Del Valle",
   "engines": {
-    "node": "~4.2",
+    "node": "~4.2"
   },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Luisk955/googlecloud-helloworld/issues"
   },
-  "homepage": "https://github.com/Luisk955/googlecloud-helloworld#readme"
+  "homepage": "https://github.com/Luisk955/googlecloud-helloworld#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  } 
 }
